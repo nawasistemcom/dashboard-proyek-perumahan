@@ -50,3 +50,8 @@ https://nawasistem.com/property-konstruksi/
 ## Tentang Nawasistem
 
 Nawasistem menyediakan edukasi, dashboard, SOP, template, dan sistem kerja modern untuk proyek perumahan dan konstruksi.
+## Presentasi SlideShare
+
+Dashboard Proyek Perumahan: Cara Modern Monitoring Progress & Kontrol Proyek
+
+https://www.slideshare.net/slideshow/dashboard-proyek-perumahan-cara-modern-monitoring-progress-kontrol-proyek
