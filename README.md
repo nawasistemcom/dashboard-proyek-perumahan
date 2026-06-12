@@ -54,4 +54,5 @@ Nawasistem menyediakan edukasi, dashboard, SOP, template, dan sistem kerja moder
 
 Dashboard Proyek Perumahan: Cara Modern Monitoring Progress & Kontrol Proyek
 
-https://www.slideshare.net/slideshow/dashboard-proyek-perumahan-cara-modern-monitoring-progress-kontrol-proyek
+[https://www.slideshare.net/slideshow/dashboard-proyek-perumahan-cara-modern-monitoring-progress-kontrol-proyek
+](https://www.slideshare.net/slideshow/dashboard-proyek-perumahan-cara-modern-monitoring-progress-kontrol-proyek/288025749?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral_v2&utm_variation=control&utm_medium=share)
